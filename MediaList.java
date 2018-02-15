@@ -1,8 +1,6 @@
 //***********************************************************************************************************
 //Zun Lin
-//CMSC-256
 //MediaList
-//Project 2:
 //This program is to create a datebase of different digital media with different size and name.
 //************************************************************************************************************
 import java.io.File;
