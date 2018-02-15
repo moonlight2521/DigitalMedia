@@ -1,8 +1,6 @@
 //***********************************************************************************************************
 //Zun Lin
-//CMSC-256
 //Image subclass
-//Project 2:
 //his program is to create a subclass of DigitalMedia class of different image with different width and height.
 //************************************************************************************************************
 public class Image extends DigitalMedia implements Comparable<Image>{
