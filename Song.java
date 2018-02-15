@@ -1,8 +1,6 @@
 //***********************************************************************************************************
 //Zun Lin
-//CMSC-256
 //Song subclass
-//Project 2:
 //This program is to create a subclass of DigitalMedia class of different songs with different size and title.
 //************************************************************************************************************
 public class Song extends DigitalMedia implements Comparable<Song>{
